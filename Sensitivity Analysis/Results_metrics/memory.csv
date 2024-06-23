@@ -1,0 +1,52 @@
+,Coefficient,P-value
+"memory, Production Benefit Per NCH Patch",0.020120870155340427,6.150923621704605e-70
+"subsidy*memory, Production Benefit Per NCH Patch",-0.019198657390101674,7.20084562469053e-64
+"memory, HS Patches",-0.017668186128116683,2.2681040537494398e-105
+"subsidy*memory, HS Patches",0.016707187690013146,1.7975281590350394e-94
+"memory, Net Production Per Patch",-0.015827821479154305,2.1440436750119986e-52
+"subsidy*memory, Non-HS Strategy Adoption",-0.014194223843616008,1.8267476439891323e-47
+"memory, Income Per Patch",-0.014151014228082988,1.4160534280791905e-86
+"subsidy*memory, Net Production Per Patch",0.010818090743487163,2.131887261270098e-25
+"memory, Income Deviation",0.01048942750667719,7.25566072301207e-24
+"memory, Non-HS Strategy Adoption",0.010184344581007983,3.006337873313093e-25
+"carePatchMean*memory, Non-HS Strategy Adoption",0.009287059790462937,2.896491532245984e-21
+"subsidy*memory, Income Per Patch",0.007860288581473748,6.064425150130495e-28
+"carePatchMean*memory, HS Patches",-0.00754811663659516,1.2211361984788531e-20
+"carePatchMean*memory, Production Benefit Per NCH Patch",0.0068303883642562985,1.953210137976284e-09
+"initialExperience*memory, HS Patches",-0.006151938636578997,3.202328944222798e-14
+"initialExperience*memory, Production Benefit Per NCH Patch",0.006087211144039217,8.934232960796251e-08
+"nchPercent*memory, Production Benefit Per NCH Patch",-0.0058210657681109475,3.1613259922606146e-07
+"carePatchMean*memory, Net Production Per Patch",-0.005576525991601924,8.004234665038396e-08
+"farmSize*memory, Production Benefit Per NCH Patch",-0.005298888394714131,2.125309688533747e-05
+"nchPercent*memory, Non-HS Strategy Adoption",-0.005105174798085956,1.9646907046144735e-07
+"initialExperience*memory, Non-HS Strategy Adoption",0.004904612252094176,5.790362649066644e-07
+"carePatchMean*memory, Income Per Patch",-0.004593390192049939,1.532195371579634e-10
+"initialExperience*memory, Income Deviation",0.0036070373012900836,0.000534456511395756
+"initialExperience*memory, NCH Patches",-0.0035750372271965143,3.18030739968167e-06
+"careOthersMean*memory, Net Production Per Patch",0.0034866316134297953,0.0007958503946900402
+"nchPercent*memory, HS Patches",0.003366304176469734,3.276276900842691e-05
+"careOthersMean*memory, Production Benefit Per NCH Patch",-0.0032816246843705116,0.003948339600204371
+"careOthersMean*memory, HS Patches",0.003159174195406397,9.735923339866461e-05
+"farmSize*memory, Net Production Per Patch",-0.003066131072561134,0.00704999592970853
+"careOthersMean*memory, Non-HS Strategy Adoption",-0.0030511964903576377,0.001877854093301466
+"giniCoeff*memory, Income Deviation",0.002875245999743291,0.011719132605203129
+"farmSize*memory, Non-HS Strategy Adoption",-0.002826922495957394,0.008509575823946515
+"giniCoeff*memory, Production Benefit Per NCH Patch",-0.0028118468411410503,0.02410749455035405
+"careOthersMean*memory, Income Per Patch",0.0028012067876448097,9.516117891167029e-05
+"giniCoeff*memory, Net Production Per Patch",-0.0027751184233063674,0.01476292564969815
+"farmSize*memory, Income Deviation",0.0025357975046832273,0.026184310263453837
+"nchPercent*memory, Income Deviation",-0.002467652168906705,0.017830790909472993
+"trustIndexMean*memory, HS Patches",-0.002450334398152929,0.0024995144482652405
+"subsidy*memory, Income Deviation",-0.002397203423339914,0.021294424000604134
+"initialExperience*memory, Income Per Patch",-0.0023944167958318864,0.000848763132711362
+"memory, NCH Patches",-0.0023405985786873903,0.0022790325725178537
+"giniCoeff*memory, Income Per Patch",-0.0022143600125756075,0.00484137429240964
+"careFarmerMean*memory, HS Patches",0.0019457715963940156,0.016364914393797676
+"careFarmerMean*memory, Income Deviation",-0.0018963644135036434,0.0686662632962986
+"farmSize*memory, Income Per Patch",-0.0018856101698113059,0.016408036486060915
+"trustIndexMean*memory, Income Deviation",0.0018529987514082813,0.07522373621380322
+"careFarmerMean*memory, Non-HS Strategy Adoption",-0.001705626082934645,0.08217872523628744
+"nchPercent*memory, NCH Patches",-0.0015832234251938766,0.03908672404858231
+"subsidy*memory, NCH Patches",-0.0014119460834526995,0.06561296966926197
+"careFarmerMean*memory, Income Per Patch",0.0013170401596300898,0.06647509363598401
+"trustIndexMean*memory, NCH Patches",0.001294022936684379,0.09170503416992788

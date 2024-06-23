@@ -1,0 +1,51 @@
+,Coefficient,P-value
+"farmSize*giniCoeff, Income Deviation",-0.4327500453293729,0.0
+"giniCoeff, Income Deviation",0.3906395344358421,0.0
+"subsidy*giniCoeff, Income Deviation",0.05201540407012709,0.0
+"giniCoeff, Net Production Per Patch",0.03456001896030312,1.0516778471330047e-194
+"giniCoeff*carePatchMean, Income Deviation",-0.02709870483641924,5.200871905398578e-125
+"giniCoeff, Income Per Patch",0.026848554556487787,7.914413193801482e-246
+"giniCoeff*nchPercent, Income Deviation",0.019044051434528482,1.6416357566482832e-62
+"farmSize*giniCoeff, Net Production Per Patch",0.015813964149218464,7.123090307913768e-31
+"farmSize*giniCoeff, Income Per Patch",0.014861091973847267,1.0694918476180883e-55
+"giniCoeff, Production Benefit Per NCH Patch",0.013549596928067321,1.588556220542941e-26
+"subsidy*giniCoeff, Production Benefit Per NCH Patch",0.012425803033064849,1.6917946845124387e-23
+"subsidy*giniCoeff, NCH Patches",-0.011330811505613256,1.307344090317096e-41
+"giniCoeff*initialExperience, Net Production Per Patch",-0.010600795518494487,1.2500238105569896e-20
+"farmSize*giniCoeff, NCH Patches",0.009685537376477387,9.361699135860734e-22
+"giniCoeff*initialExperience, Income Per Patch",-0.009529440142421776,8.005067589301946e-34
+"giniCoeff*careOthersMean, Income Deviation",0.00836963756449258,2.131661831704748e-13
+"subsidy*giniCoeff, HS Patches",-0.007657045385331644,5.333562585019985e-18
+"subsidy*giniCoeff, Non-HS Strategy Adoption",-0.007459597812525295,3.467040060665531e-12
+"giniCoeff*careFarmerMean, HS Patches",-0.007313339766514548,1.756650200849799e-16
+"giniCoeff*careFarmerMean, NCH Patches",0.0070089778950173254,7.501930368708891e-17
+"giniCoeff*initialExperience, Production Benefit Per NCH Patch",-0.0067415534372944706,6.411534585179127e-08
+"giniCoeff*carePatchMean, Net Production Per Patch",0.00659245725295632,6.637980042079298e-09
+"giniCoeff*carePatchMean, Non-HS Strategy Adoption",0.006338523958689206,3.5017441899824135e-09
+"giniCoeff*trustIndexMean, Income Deviation",0.006332007346532054,2.7894407199482257e-08
+"giniCoeff*carePatchMean, Production Benefit Per NCH Patch",0.006048040961961326,1.1868440106517696e-06
+"giniCoeff, Non-HS Strategy Adoption",0.004609439875231587,2.5917187795363806e-05
+"giniCoeff*carePatchMean, Income Per Patch",0.004451205065642188,1.4185683765032995e-08
+"giniCoeff*trustIndexMean, Production Benefit Per NCH Patch",-0.0043913029710134065,0.00042427192958509905
+"giniCoeff, NCH Patches",0.004298799846195812,5.252649990674336e-07
+"farmSize*giniCoeff, Non-HS Strategy Adoption",-0.004195845922738615,0.0011672465993827496
+"giniCoeff, HS Patches",-0.0039096983411462775,1.5617660041751492e-05
+"subsidy*giniCoeff, Net Production Per Patch",0.0038790777794169102,0.0006355083888210929
+"giniCoeff*nchPercent, Production Benefit Per NCH Patch",-0.0038454742668640185,0.0020461182208005393
+"giniCoeff*initialExperience, HS Patches",0.0033156200095967527,0.000187773608238864
+"giniCoeff*careFarmerMean, Production Benefit Per NCH Patch",0.0030797582350776953,0.013512208268663933
+"giniCoeff*careFarmerMean, Income Deviation",-0.003022424317080445,0.008069305458455169
+"giniCoeff*careFarmerMean, Net Production Per Patch",-0.0028991733374686443,0.010871742547681487
+"giniCoeff*memory, Income Deviation",0.002875245999743291,0.011719132605203129
+"giniCoeff*memory, Production Benefit Per NCH Patch",-0.0028118468411410503,0.02410749455035405
+"giniCoeff*memory, Net Production Per Patch",-0.0027751184233063674,0.01476292564969815
+"giniCoeff*initialExperience, NCH Patches",-0.0027694091746841795,0.000983831200899283
+"giniCoeff*careOthersMean, Net Production Per Patch",-0.0023964381472104668,0.035166024739322205
+"giniCoeff*careFarmerMean, Non-HS Strategy Adoption",0.002297042599371599,0.03258455441482638
+"giniCoeff*memory, Income Per Patch",-0.0022143600125756075,0.00484137429240964
+"giniCoeff*carePatchMean, NCH Patches",-0.0019404152633540252,0.020770072950600536
+"giniCoeff*nchPercent, NCH Patches",0.0018961000174169196,0.02410341713973213
+"giniCoeff*careOthersMean, Income Per Patch",-0.0018870201548943186,0.016303269853785194
+"farmSize*giniCoeff, HS Patches",-0.001824687652018765,0.08737090220302494
+"giniCoeff*trustIndexMean, HS Patches",-0.0017892662669309895,0.043696088061213424
+"subsidy*giniCoeff, Income Per Patch",-0.0013248810196261976,0.09109984269891595

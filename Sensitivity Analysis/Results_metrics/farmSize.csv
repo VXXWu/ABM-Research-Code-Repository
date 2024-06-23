@@ -1,0 +1,61 @@
+,Coefficient,P-value
+"farmSize, Income Deviation",-0.5579607011122916,0.0
+"farmSize*giniCoeff, Income Deviation",-0.4327500453293729,0.0
+"farmSize, Net Production Per Patch",0.10723844367728408,0.0
+"farmSize, Income Per Patch",0.08841835879696508,0.0
+"farmSize*subsidy, NCH Patches",-0.04346355222511289,0.0
+"farmSize, Production Benefit Per NCH Patch",0.03526350687210232,7.495928956488046e-122
+"farmSize, NCH Patches",0.03524048977183679,3.430648241399839e-265
+"farmSize*nchPercent, Income Deviation",-0.03431240977455759,3.0615161673445255e-198
+"farmSize*subsidy, Non-HS Strategy Adoption",0.025182132213508946,6.216529051900408e-122
+"farmSize*subsidy, Production Benefit Per NCH Patch",0.025169055371395792,5.07206133347862e-91
+"farmSize*carePatchMean, Income Deviation",0.02382511514212594,5.083992380176653e-97
+"farmSize*trustIndexMean, Income Deviation",-0.022790666481462676,9.348556145169879e-89
+"farmSize*subsidy, Income Per Patch",-0.021952043690135863,2.3870482775062574e-172
+"farmSize*subsidy, Income Deviation",-0.01958540229191206,2.338917118349636e-66
+"farmSize*careFarmerMean, NCH Patches",0.017821045073323515,8.421322140476501e-100
+"farmSize*nchPercent, Production Benefit Per NCH Patch",-0.017438562819499265,2.253501062069413e-44
+"farmSize*carePatchMean, Production Benefit Per NCH Patch",0.017225305770324262,1.6929895393662667e-43
+"farmSize*giniCoeff, Net Production Per Patch",0.015813964149218464,7.123090307913768e-31
+"farmSize*carePatchMean, Net Production Per Patch",0.015119156292639229,2.450486136249902e-40
+"farmSize*carePatchMean, NCH Patches",-0.015091696065195587,3.132494351366671e-72
+"farmSize*giniCoeff, Income Per Patch",0.014861091973847267,1.0694918476180883e-55
+"farmSize, HS Patches",-0.014361367180287084,4.0598326734601496e-41
+"farmSize*careFarmerMean, HS Patches",-0.014304744935674574,1.9445651158129767e-58
+"farmSize*initialExperience, Income Deviation",-0.014240786097822224,9.787840296741746e-36
+"farmSize*trustIndexMean, Net Production Per Patch",0.013732082036304532,1.6558660860981578e-33
+"farmSize*initialExperience, Non-HS Strategy Adoption",-0.013478216941647445,4.7156443681846473e-36
+"farmSize*carePatchMean, Non-HS Strategy Adoption",-0.013149959782477873,1.7227199011212813e-34
+"farmSize*carePatchMean, HS Patches",0.012963918652763244,2.1513382142765708e-48
+"farmSize*subsidy, HS Patches",-0.012812350912732536,1.9612026222198627e-47
+"farmSize, Non-HS Strategy Adoption",0.012444387940132591,7.095719518103101e-22
+"farmSize*trustIndexMean, Income Per Patch",0.012413508231310108,3.5752212076503992e-56
+"farmSize*careOthersMean, Income Deviation",-0.011173545227258415,1.1440989740595878e-22
+"farmSize*nchPercent, Net Production Per Patch",-0.010741057263694016,4.1827529304377424e-21
+"farmSize*initialExperience, Production Benefit Per NCH Patch",0.00979022716988379,4.164432671987139e-15
+"farmSize*giniCoeff, NCH Patches",0.009685537376477387,9.361699135860734e-22
+"farmSize*careFarmerMean, Non-HS Strategy Adoption",0.009392692603861934,2.296011012553694e-18
+"farmSize*carePatchMean, Income Per Patch",0.008112905110452973,5.030881373618252e-25
+"farmSize*nchPercent, HS Patches",0.007482328656400619,3.717183814246116e-17
+"farmSize*trustIndexMean, Production Benefit Per NCH Patch",-0.007302691412187006,4.710258320906578e-09
+"farmSize*nchPercent, NCH Patches",0.007237422411797542,7.697758862271845e-18
+"farmSize*careFarmerMean, Production Benefit Per NCH Patch",-0.006851573646991603,3.866352163146209e-08
+"farmSize*subsidy, Net Production Per Patch",-0.006321869181229127,2.5861089018036936e-08
+"farmSize*careFarmerMean, Net Production Per Patch",-0.005971249119243289,1.5437380029590336e-07
+"farmSize*initialExperience, HS Patches",0.005371585093655198,1.4553004736091544e-09
+"farmSize*careOthersMean, Non-HS Strategy Adoption",0.005327082890222242,7.08990607767061e-07
+"farmSize*memory, Production Benefit Per NCH Patch",-0.005298888394714131,2.125309688533747e-05
+"farmSize*careOthersMean, Net Production Per Patch",-0.005294589548951981,3.263675973623028e-06
+"farmSize*nchPercent, Income Per Patch",-0.004232129162819167,7.457888616379189e-08
+"farmSize*giniCoeff, Non-HS Strategy Adoption",-0.004195845922738615,0.0011672465993827496
+"farmSize*careOthersMean, HS Patches",-0.0032908028628227622,0.00020827400516599019
+"farmSize*careOthersMean, Income Per Patch",-0.0031568521695922863,5.8659228744620795e-05
+"farmSize*memory, Net Production Per Patch",-0.003066131072561134,0.00704999592970853
+"farmSize*memory, Non-HS Strategy Adoption",-0.002826922495957394,0.008509575823946515
+"farmSize*memory, Income Deviation",0.0025357975046832273,0.026184310263453837
+"farmSize*nchPercent, Non-HS Strategy Adoption",-0.002450001086706756,0.02274276427201279
+"farmSize*trustIndexMean, NCH Patches",0.0022890331965737987,0.006457174737341793
+"farmSize*initialExperience, NCH Patches",-0.0022739189025153994,0.006833299454686774
+"farmSize*careOthersMean, NCH Patches",0.0019985819958186417,0.017354030187103568
+"farmSize*memory, Income Per Patch",-0.0018856101698113059,0.016408036486060915
+"farmSize*giniCoeff, HS Patches",-0.001824687652018765,0.08737090220302494

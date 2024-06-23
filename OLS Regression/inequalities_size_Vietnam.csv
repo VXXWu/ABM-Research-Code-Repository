@@ -1,0 +1,22 @@
+,Coefficient,P-Value
+Income Per Patch S,2.88735,p<0.001
+Income Per Patch F,1.10554,p<0.001
+Income Per Patch FS,-0.57276,p<0.001
+Net Production Per Patch S,-2.27216,p<0.001
+Net Production Per Patch F,1.00134,p<0.001
+Net Production Per Patch FS,0.06779,0.31378
+NCH Patches (%) S,2.95836,p<0.001
+NCH Patches (%) F,0.14954,p<0.001
+NCH Patches (%) FS,-0.35679,p<0.001
+Non-HS Strategy Adoption (%) S,1.19685,p<0.001
+Non-HS Strategy Adoption (%) F,-1.2881,p<0.001
+Non-HS Strategy Adoption (%) FS,2.54332,p<0.001
+Yield Benefit Per NCH Cell S,0.16136,p<0.001
+Yield Benefit Per NCH Cell F,0.66419,p<0.001
+Yield Benefit Per NCH Cell FS,0.63449,p<0.001
+Scaled Income Deviation S,-2.23347,p<0.001
+Scaled Income Deviation F,-3.93647,p<0.001
+Scaled Income Deviation FS,2.33431,p<0.001
+HS Patches (%) S,-2.30216,p<0.001
+HS Patches (%) F,0.91695,p<0.001
+HS Patches (%) FS,-1.77972,p<0.001
